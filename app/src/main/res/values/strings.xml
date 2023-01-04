@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">dialogs</string>
+    <string name="your_massage">Your Massage</string>
+    <string name="yo_q">Yo\'q</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dialog_fragment">Dialog Fragment</string>
+    <string name="bottomsheet_dialog">BottomSheet Dialog</string>
+    <string name="course_duration_4_months">Course Duration : 4 Months</string>
+    <string name="course_tracks_30">Course Tracks : 30</string>
+    <string name="dsa_self_paced_course">DSA Self Paced Course</string>
+    <string name="dismiss_dialog">Dismiss dialog</string>
+    <string name="todo">TODO</string>
+</resources>
